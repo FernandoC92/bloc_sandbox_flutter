@@ -1,4 +1,4 @@
-import 'package:bloc_sandbox/blocs/ex1.cep_bloc.dart';
+import 'package:bloc_sandbox/bloc/ex1.cep_bloc.dart';
 import 'package:bloc_sandbox/models/address_ex1.model.dart';
 import 'package:flutter/material.dart';
 

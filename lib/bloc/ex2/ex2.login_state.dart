@@ -1,4 +1,4 @@
-import 'package:bloc_sandbox/blocs/ex2/ex2.form_submission_status.dart';
+import 'package:bloc_sandbox/bloc/ex2/ex2.form_submission_status.dart';
 
 class Ex2LoginState {
   final String username;

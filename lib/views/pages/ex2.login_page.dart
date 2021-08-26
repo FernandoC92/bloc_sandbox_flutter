@@ -1,7 +1,7 @@
-import 'package:bloc_sandbox/blocs/ex2/ex2.form_submission_status.dart';
-import 'package:bloc_sandbox/blocs/ex2/ex2.login_bloc.dart';
-import 'package:bloc_sandbox/blocs/ex2/ex2.login_event.dart';
-import 'package:bloc_sandbox/blocs/ex2/ex2.login_state.dart';
+import 'package:bloc_sandbox/bloc/ex2/ex2.form_submission_status.dart';
+import 'package:bloc_sandbox/bloc/ex2/ex2.login_bloc.dart';
+import 'package:bloc_sandbox/bloc/ex2/ex2.login_event.dart';
+import 'package:bloc_sandbox/bloc/ex2/ex2.login_state.dart';
 import 'package:bloc_sandbox/repositories/ex2.auth_repo.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
